@@ -1,0 +1,20 @@
+{
+    "habits": [
+        {
+            "type": "LimitHabit",
+            "name": "Kalorie",
+            "history": {},
+            "limit": 2265
+        }
+    ],
+    "tasks": [
+        {
+            "description": "Nauka Python",
+            "is_done": true
+        },
+        {
+            "description": "Spanie",
+            "is_done": true
+        }
+    ]
+}
